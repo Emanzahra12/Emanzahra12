@@ -1,4 +1,9 @@
-## Hi there 👋
+### Hi, I'm Eman Zahra 👋
+
+- 🔭 Currently learning Python and Software Testing
+- 🌱 Software Engineering Student from Pakistan
+- 📫 Reach me: emanzahra472@gmail.com
+- ⚡ Working on HENNGE Challenge 004## Hi there 👋
 
 <!--
 **Emanzahra12/Emanzahra12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
